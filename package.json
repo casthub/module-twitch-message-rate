@@ -1,0 +1,14 @@
+{
+    "name": "twitch-message-rate",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "Apache-2.0",
+    "casthub": {
+        "width": 5,
+        "height": 4,
+        "min_width": 5,
+        "min_height": 4,
+        "max_width": 9,
+        "max_height": 6
+    }
+}
